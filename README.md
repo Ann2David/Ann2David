@@ -2,7 +2,7 @@
 
 Full-Stack Software Engineer | Junior Developer
 
-I build clean, functional web applications from front to back — comfortable working across the stack and eager to grow on a team where I can keep learning and shipping real products.
+I build clean, functional web applications from front to back comfortable working across the stack and eager to grow on a team where I can keep learning and shipping real products.
 
 ## 🔧 Tech Stack
 
